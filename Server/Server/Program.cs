@@ -28,7 +28,7 @@ namespace Server
         public override void OnRecv(ArraySegment<byte> buffer)
         {
             string recvData = Encoding.UTF8.GetString(buffer.Array, buffer.Offset, buffer.Count);
-            Console.WriteLine($"[From Clinet ] {recvData}");
+            Console.WriteLine($"[From Clinet] {recvData}");
         }
 
         public override void OnSend(int numOfBytes)

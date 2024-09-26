@@ -59,17 +59,19 @@ namespace ServerCore
 
         void RegisterSend()
         {
-            _pendingList.Clear();
             while (_sendQueue.Count > 0)
             {
                 byte[] buff = _sendQueue.Dequeue();
                 _pendingList.Add(new ArraySegment<byte>(buff, 0, buff.Length));
             }
+            _sendArgs.BufferList = _pendingList;
 
             bool pending = _socket.SendAsync(_sendArgs);
             if (pending == false)
                 OnSendCompleted(null, _sendArgs);
         }
+
+
 
         void OnSendCompleted(object sender, SocketAsyncEventArgs args)
         {

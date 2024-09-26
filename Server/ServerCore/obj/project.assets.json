@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cocou\\OneDrive\\바탕 화면\\Eunjoo\\gameprograming\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
+      "projectUniqueName": "C:\\Users\\cocou\\OneDrive\\바탕 화면\\은주\\gameprograming\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
       "projectName": "ServerCore",
-      "projectPath": "C:\\Users\\cocou\\OneDrive\\바탕 화면\\Eunjoo\\gameprograming\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
+      "projectPath": "C:\\Users\\cocou\\OneDrive\\바탕 화면\\은주\\gameprograming\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
       "packagesPath": "C:\\Users\\cocou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cocou\\OneDrive\\바탕 화면\\Eunjoo\\gameprograming\\ServerStudy\\Server\\ServerCore\\obj\\",
+      "outputPath": "C:\\Users\\cocou\\OneDrive\\바탕 화면\\은주\\gameprograming\\ServerStudy\\Server\\ServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cocou\\AppData\\Roaming\\NuGet\\NuGet.Config",
