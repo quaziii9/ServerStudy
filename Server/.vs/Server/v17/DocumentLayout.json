@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\servercore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +25,53 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 340,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Listener.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Listener.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Listener.cs",
+              "RelativeToolTip": "ServerCore\\Listener.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:30:39.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Session.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Session.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Session.cs",
+              "RelativeToolTip": "ServerCore\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:24:42.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Program.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Program.cs",
+              "RelativeToolTip": "DummyClient\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:20:14.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
@@ -36,46 +81,10 @@
               "RelativeDocumentMoniker": "ServerCore\\Program.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Program.cs",
               "RelativeToolTip": "ServerCore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA+wDcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T05:20:09.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Session.cs",
-              "RelativeDocumentMoniker": "ServerCore\\Session.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Session.cs",
-              "RelativeToolTip": "ServerCore\\Session.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:24:42.54Z",
+              "WhenOpened": "2024-09-26T05:20:09.471Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Program.cs",
-              "RelativeDocumentMoniker": "DummyClient\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Program.cs",
-              "RelativeToolTip": "DummyClient\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T05:20:14.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Listener.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Listener.cs",
-              "RelativeDocumentMoniker": "ServerCore\\Listener.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Listener.cs",
-              "RelativeToolTip": "ServerCore\\Listener.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwC4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:30:39.801Z"
             }
           ]
         }
