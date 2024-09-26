@@ -5,10 +5,7 @@ using System.Text;
 
 namespace DummyClient
 {
-    //test
-    /// <summary>
-    ///  test 
-    /// </summary>
+
     class Program
     {
         static void Main(string[] args)

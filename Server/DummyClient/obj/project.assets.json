@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KGA\\Desktop\\Eunjoo\\Server\\Server\\DummyClient\\DummyClient.csproj",
+      "projectUniqueName": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\DummyClient.csproj",
       "projectName": "DummyClient",
-      "projectPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\Server\\Server\\DummyClient\\DummyClient.csproj",
+      "projectPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\DummyClient.csproj",
       "packagesPath": "C:\\Users\\KGA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\Server\\Server\\DummyClient\\obj\\",
+      "outputPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KGA\\AppData\\Roaming\\NuGet\\NuGet.Config"

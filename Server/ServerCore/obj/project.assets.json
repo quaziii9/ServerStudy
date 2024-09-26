@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KGA\\Desktop\\Eunjoo\\Server\\Server\\ServerCore\\ServerCore.csproj",
+      "projectUniqueName": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
       "projectName": "ServerCore",
-      "projectPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\Server\\Server\\ServerCore\\ServerCore.csproj",
+      "projectPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\ServerCore.csproj",
       "packagesPath": "C:\\Users\\KGA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\Server\\Server\\ServerCore\\obj\\",
+      "outputPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KGA\\AppData\\Roaming\\NuGet\\NuGet.Config"
