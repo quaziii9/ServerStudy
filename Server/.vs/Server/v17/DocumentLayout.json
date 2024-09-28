@@ -41,7 +41,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1292,
+          "DockedWidth": 897,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "DummyClient\\ServerSession.cs",
               "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\ServerSession.cs",
               "RelativeToolTip": "DummyClient\\ServerSession.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T09:03:37.276Z",
               "EditorCaption": ""
@@ -132,7 +132,7 @@
           ]
         },
         {
-          "DockedWidth": 62,
+          "DockedWidth": 457,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -143,7 +143,7 @@
               "RelativeDocumentMoniker": "Server\\ClientSession.cs",
               "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\ClientSession.cs",
               "RelativeToolTip": "Server\\ClientSession.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAwwDMAAAAdAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T09:05:07.921Z",
               "EditorCaption": ""
