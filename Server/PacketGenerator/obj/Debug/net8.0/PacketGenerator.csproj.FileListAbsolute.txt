@@ -13,3 +13,8 @@ C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\P
 C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.pdb
 C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.genruntimeconfig.cache
 C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\obj\Debug\net8.0\ref\PacketGenerator.dll
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\bin\net8.0\PacketGenerator.exe
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\bin\net8.0\PacketGenerator.deps.json
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\bin\net8.0\PacketGenerator.runtimeconfig.json
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\bin\net8.0\PacketGenerator.dll
+C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\bin\net8.0\PacketGenerator.pdb
