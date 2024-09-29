@@ -6,7 +6,9 @@ namespace PacketGenerator
     class PacketGeneratorProgram
     {
         // 실시간으로 parsing 하는 데이터들을 보관
-        static string genPacket;
+        static string genPackets;
+        static ushort packetId;
+        static string packetEnums;
 
         static void Main(string[] args)
         {
@@ -37,7 +39,8 @@ namespace PacketGenerator
                     // r["name"] : 변수명
                     // System.Console.WriteLine(r.Name + " " + r["name"]);
                 }
-                File.WriteAllText("GenPacket.cs", genPacket);
+                string fireText = string.Format(PacketFormat.fileFormat, packetEnums, genPackets);
+                File.WriteAllText("GenPackets.cs", fireText);
             };
         }
 
@@ -58,7 +61,8 @@ namespace PacketGenerator
             }
 
             Tuple<string, string, string> t = ParseMembers(r);
-            genPacket += string.Format(PacketFormat.packetFormat, packetName, t.Item1, t.Item2, t.Item3);
+            genPackets += string.Format(PacketFormat.packetFormat, packetName, t.Item1, t.Item2, t.Item3);
+            packetEnums += string.Format(PacketFormat.packetEnumFormat, packetName, ++packetId) + Environment.NewLine +"\t";
         }
 
         // {1} 멤버 변수들
@@ -99,6 +103,12 @@ namespace PacketGenerator
                 string memberType = r.Name.ToLower();
                 switch (memberType)
                 {
+                    case "byte":
+                    case "sbyte":
+                        memberCode += string.Format(PacketFormat.memberFormat, memberType, memberName);
+                        readCode += string.Format(PacketFormat.readByteFormat, memberName, memberType);
+                        writeCode += string.Format(PacketFormat.writeByteFormat, memberName, memberType);
+                        break;
                     case "bool":
                     case "short":
                     case "ushort":
@@ -194,7 +204,6 @@ namespace PacketGenerator
             {
                 return "";
             }
-            // 첫 번째 문자를 대문자로 바꾼 다음 기존에 있던 소문자 제거
             return input[0].ToString().ToUpper() + input.Substring(1);
         }
         public static string FirstCharToLower(string input)
@@ -203,7 +212,6 @@ namespace PacketGenerator
             {
                 return "";
             }
-            // 첫 번째 문자를 대문자로 바꾼 다음 기존에 있던 소문자 제거
             return input[0].ToString().ToLower() + input.Substring(1);
         }
     }
