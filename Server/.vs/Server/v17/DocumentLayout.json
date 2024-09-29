@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\session\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\dummyclient\\packet\\clientpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +31,20 @@
       "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\packet\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +63,12 @@
       "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\cocou\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\serverstudy\\server\\server\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,24 +82,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 261,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PacketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Packet\\PacketHandler.cs",
-              "RelativeDocumentMoniker": "Server\\Packet\\PacketHandler.cs",
-              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Packet\\PacketHandler.cs",
-              "RelativeToolTip": "Server\\Packet\\PacketHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Session\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Server\\Session\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Session\\SessionManager.cs",
+              "RelativeToolTip": "Server\\Session\\SessionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T10:09:53.655Z",
+              "WhenOpened": "2024-09-29T15:58:41.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\GameRoom.cs",
+              "RelativeDocumentMoniker": "Server\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\GameRoom.cs",
+              "RelativeToolTip": "Server\\GameRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:54:34.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientPacketManager.cs",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\ClientPacketManager.cs",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\ClientPacketManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:57:51.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PacketHandler.cs",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\PacketHandler.cs",
               "RelativeDocumentMoniker": "DummyClient\\Packet\\PacketHandler.cs",
@@ -100,33 +138,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientPacketManager.cs",
-              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\ClientPacketManager.cs",
-              "RelativeDocumentMoniker": "DummyClient\\Packet\\ClientPacketManager.cs",
-              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\ClientPacketManager.cs",
-              "RelativeToolTip": "DummyClient\\Packet\\ClientPacketManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAEAAAA",
+              "DocumentIndex": 2,
+              "Title": "ClientSession.cs",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Session\\ClientSession.cs",
+              "RelativeDocumentMoniker": "Server\\Session\\ClientSession.cs",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Session\\ClientSession.cs",
+              "RelativeToolTip": "Server\\Session\\ClientSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:57:51.707Z",
+              "WhenOpened": "2024-09-29T09:33:21.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:24:11.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "Server\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "Server\\Packet\\PacketHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:09:53.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenPackets.cs",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\GenPackets.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\GenPackets.cs",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\GenPackets.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\GenPackets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:54:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PDL.xml",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\PacketGenerator\\PDL.xml",
+              "RelativeDocumentMoniker": "PacketGenerator\\PDL.xml",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\PacketGenerator\\PDL.xml",
+              "RelativeToolTip": "PacketGenerator\\PDL.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-29T08:58:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\ServerCore\\Session.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Session.cs",
+              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\ServerCore\\Session.cs",
+              "RelativeToolTip": "ServerCore\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:46:00.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ServerSession.cs",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\ServerSession.cs",
               "RelativeDocumentMoniker": "DummyClient\\ServerSession.cs",
               "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\ServerSession.cs",
               "RelativeToolTip": "DummyClient\\ServerSession.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T10:09:14.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ServerPacketManager.cs",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Packet\\ServerPacketManager.cs",
               "RelativeDocumentMoniker": "Server\\Packet\\ServerPacketManager.cs",
@@ -134,13 +237,12 @@
               "RelativeToolTip": "Server\\Packet\\ServerPacketManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:57:55.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T13:57:55.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PacketGenerator",
+              "DocumentIndex": 13,
+              "Title": "PacketGenerator.csproj",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\PacketGenerator\\PacketGenerator.csproj",
               "RelativeDocumentMoniker": "PacketGenerator\\PacketGenerator.csproj",
               "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\PacketGenerator\\PacketGenerator.csproj",
@@ -152,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\PacketGenerator\\Program.cs",
               "RelativeDocumentMoniker": "PacketGenerator\\Program.cs",
@@ -160,12 +262,11 @@
               "RelativeToolTip": "PacketGenerator\\Program.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAkwFUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T08:59:19.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:59:19.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "GenPackets.bat",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Common\\Packet\\GenPackets.bat",
               "RelativeDocumentMoniker": "Common\\Packet\\GenPackets.bat",
@@ -173,51 +274,11 @@
               "RelativeToolTip": "Common\\Packet\\GenPackets.bat",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJbSURBVEhL7ZVdSFNhHMafUwyU3FpG2gextWkE7lA4R6S4nVkWCkENtYYQ1U03uwy66LqLoKvdRRd9UKzSjIoYMmrrw2CRSU0tp/twWEGBzmlzO6nrvIdz7IDvJla7CPrBOe\u002Bf877/5znPy3s4KCq5XE6q/mEYcrtw8VJRopw/d5ZZI9V/RGNDPXVcgiTgef6vXNlsVrzkXSmYIBofh8//HKmZWXH89PmLNENHPjTKw1PQwOd/BkZVAk93D3JrVQi\u002BeSvNLIcmTqAakDftefgYKpUKemMVmg61QmcwYmo6hctXb4jJlOQTJ1ANhkdGod1UCXtzC94P9KPP/wSD7wbQwDUJRlWIxH4Z0MSVNdVgb10tRj8OC4eYQWpqEic7j2EmmRTONIPx6Jg4T1hJnEA1IHtdvauG6GN9\u002BUZcu3UHau0G8avRG6uF\u002Bf6C4spnVAPjDp2QYAhPe73YY66Ddf9B7K4146WwVbPJSTGV2\u002B1GMBiUOujiBKqBQa/DmVMnoNWoEYuMwed9hHg0gvn5H1hYXITR0gj78dPAZgOu3\u002B5aJr5iAhmy1wuZNJxtDuT4OVSUa1FjqQe7vQLhF70w6yqxcx\u002BHUCi0ugQy27ZuQbPdCo26DAc4KxLxGEpKS3G/\u002By6cTice3OuCpmwdAoGAuH7VCWTkBo7jwGcyONreAY/HgyNtHUh/T8Nms/1eAoKykWVZDL7uw8jEN7BcC0KJr/jwyg\u002BTybS0RjkSChrQGhyHWzGdCMN78wrmJsLobHeIz2lrCXkNaA1ybbFY4HK5xJGQT5xQ9B\u002BOVP4nH8BPE6mENmzTR0MAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-09-29T13:22:17.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T13:22:17.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PDL.xml",
-              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\PacketGenerator\\PDL.xml",
-              "RelativeDocumentMoniker": "PacketGenerator\\PDL.xml",
-              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\PacketGenerator\\PDL.xml",
-              "RelativeToolTip": "PacketGenerator\\PDL.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-09-29T08:58:16.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClientSession.cs",
-              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\ClientSession.cs",
-              "RelativeDocumentMoniker": "Server\\ClientSession.cs",
-              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\ClientSession.cs",
-              "RelativeToolTip": "Server\\ClientSession.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:33:21.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GenPackets.cs",
-              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\GenPackets.cs",
-              "RelativeDocumentMoniker": "DummyClient\\Packet\\GenPackets.cs",
-              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Packet\\GenPackets.cs",
-              "RelativeToolTip": "DummyClient\\Packet\\GenPackets.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAuwLsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T08:54:53.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "PacketFormat.cs",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\PacketGenerator\\PacketFormat.cs",
               "RelativeDocumentMoniker": "PacketGenerator\\PacketFormat.cs",
@@ -225,12 +286,11 @@
               "RelativeToolTip": "PacketGenerator\\PacketFormat.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAUwCEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T08:59:18.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:59:18.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\DummyClient\\Program.cs",
               "RelativeDocumentMoniker": "DummyClient\\Program.cs",
@@ -238,25 +298,11 @@
               "RelativeToolTip": "DummyClient\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:21:29.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T13:21:29.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:24:11.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "GenPackets.cs",
               "DocumentMoniker": "C:\\Users\\cocou\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC740\uC8FC\\gameprograming\\ServerStudy\\Server\\Server\\Packet\\GenPackets.cs",
               "RelativeDocumentMoniker": "Server\\Packet\\GenPackets.cs",
@@ -264,8 +310,7 @@
               "RelativeToolTip": "Server\\Packet\\GenPackets.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:23:03.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T09:23:03.66Z"
             }
           ]
         }
