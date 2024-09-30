@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\server\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\packet\\clientpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\clientpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Common\\Packet\\GenPackets.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\Packet\\GenPackets.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\server\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\servercore\\sendbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,18 +83,6 @@
       "RelativeMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,36 +99,12 @@
       "RelativeMoniker": "D:0:0:{B5669B3C-9397-4546-AD31-8F798672AF55}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\packet\\clientpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\clientpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\server\\packet\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76F85EA4-7933-43FB-A241-155FFEB5667F}|Server\\Server.csproj|solutionrelative:server\\packet\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\packetgenerator\\packetgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31416905-4D50-4AF7-BD29-F650C01BF73F}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\packet\\genpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\kga\\desktop\\eunjoo\\serverstudy\\server\\packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9F237987-7946-4FB1-B0BC-C6D0ED25D0B3}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\pdl.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Common\\Packet\\GenPackets.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\Packet\\GenPackets.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,60 +114,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 261,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameRoom.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\GameRoom.cs",
-              "RelativeDocumentMoniker": "Server\\GameRoom.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\GameRoom.cs",
-              "RelativeToolTip": "Server\\GameRoom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:54:34.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SendBuffer.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\SendBuffer.cs",
-              "RelativeDocumentMoniker": "ServerCore\\SendBuffer.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\SendBuffer.cs",
-              "RelativeToolTip": "ServerCore\\SendBuffer.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA5wDsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T05:53:18.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Program.cs",
               "RelativeDocumentMoniker": "DummyClient\\Program.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Program.cs",
               "RelativeToolTip": "DummyClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:21:29.352Z"
+              "WhenOpened": "2024-09-29T13:21:29.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ServerSession.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\ServerSession.cs",
+              "RelativeDocumentMoniker": "DummyClient\\ServerSession.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\ServerSession.cs",
+              "RelativeToolTip": "DummyClient\\ServerSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:09:14.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\SessionManager.cs",
+              "RelativeDocumentMoniker": "DummyClient\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\SessionManager.cs",
+              "RelativeToolTip": "DummyClient\\SessionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:55:43.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\PacketHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:39:05.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenPackets.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\GenPackets.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\GenPackets.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\GenPackets.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\GenPackets.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:54:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientPacketManager.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Packet\\ClientPacketManager.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\ClientPacketManager.cs",
+              "RelativeToolTip": "DummyClient\\Packet\\ClientPacketManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:57:51.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\PacketFormat.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeToolTip": "PacketGenerator\\PacketFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:59:18.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\Program.cs",
+              "RelativeToolTip": "PacketGenerator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:59:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PDL.xml",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PDL.xml",
+              "RelativeDocumentMoniker": "PacketGenerator\\PDL.xml",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PDL.xml",
+              "RelativeToolTip": "PacketGenerator\\PDL.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-29T08:58:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenPackets.bat",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Common\\Packet\\GenPackets.bat",
+              "RelativeDocumentMoniker": "Common\\Packet\\GenPackets.bat",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Common\\Packet\\GenPackets.bat",
+              "RelativeToolTip": "Common\\Packet\\GenPackets.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH6SURBVDhPpVPLbtNAFD3jZ/yIHwkkxG0paZMVy0os2bLkS/gLJBBCQlmw5Av4HISExKJQtQ2Uxg2JH3ETe7jjOIYIVCE4tsfjuecenzu\u002Bxn8hz1\u002Bz0WikR5x71dKNsKoxpkPMgyC4ZE\u002BfvXhsmMZbSZLK8E3Q9QYE7/o6Q1EUyOL5faXRaLAHR0dqy/fAiVQUORFWACtP6JoGxsQMME0TsiIjSRc4Pv6E9\u002B8\u002BMEmWZezt7WI4HODwoA\u002B/1caKc3AmQ9F0stnDYHBYxnd2AnQ7HfT378KyzFK09p2TpUk4xcnZGOOLCc4vLvF1coXPp\u002BeIk7TkcBKu7\u002BvpTwFOAtPZjK6IXPhQFQnpIsP3KEaWZdvJ61k51gKiTpk2KE0SKLKCpt0UbCwpOQxDxHFcbpyAENnIbAm4ThNBr4Pp9AozenNBxGS5wrd4gY8nZ5iLNRL5Ywni87TJ\u002BrC/j6B7G23Xhmno8DwfTdr9lDOcjr/U5Ww81AICwoVt2yRyDwMS2g0CtDwHOitIzMRylVPz5RV7jS0BAbEPmqbCorc6llEmJFxGRGW1fZdi2tqBKIPwm8AmINz4roMuJfmGioOgg1u\u002BX5a64Qiw5y9fPfIc942qqtXSLyBewYuyOyVJrjtSIErmSOfZQ/aEfqY7ERzYVeRvEYG6sxdWT/8K4AcTZNSoBr5V8QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-29T13:22:17.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "GenPackets.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\Packet\\GenPackets.cs",
               "RelativeDocumentMoniker": "Server\\Packet\\GenPackets.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\Packet\\GenPackets.cs",
               "RelativeToolTip": "Server\\Packet\\GenPackets.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAAgAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T09:23:03.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Session.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Session.cs",
               "RelativeDocumentMoniker": "ServerCore\\Session.cs",
@@ -179,7 +273,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "SendBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\SendBuffer.cs",
+              "RelativeDocumentMoniker": "ServerCore\\SendBuffer.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\SendBuffer.cs",
+              "RelativeToolTip": "ServerCore\\SendBuffer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:53:18.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\GameRoom.cs",
+              "RelativeDocumentMoniker": "Server\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\GameRoom.cs",
+              "RelativeToolTip": "Server\\GameRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:54:34.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "SessionManager.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\Session\\SessionManager.cs",
               "RelativeDocumentMoniker": "Server\\Session\\SessionManager.cs",
@@ -191,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "PriorityQueue.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\PriorityQueue.cs",
               "RelativeDocumentMoniker": "ServerCore\\PriorityQueue.cs",
@@ -203,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "RecvBuffer.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\RecvBuffer.cs",
               "RelativeDocumentMoniker": "ServerCore\\RecvBuffer.cs",
@@ -215,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
@@ -227,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "JobTimer.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\JobTimer.cs",
               "RelativeDocumentMoniker": "Server\\JobTimer.cs",
@@ -239,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "Listener.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Listener.cs",
               "RelativeDocumentMoniker": "ServerCore\\Listener.cs",
@@ -251,43 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\Program.cs",
-              "RelativeDocumentMoniker": "PacketGenerator\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\Program.cs",
-              "RelativeToolTip": "PacketGenerator\\Program.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAFUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T08:59:19.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PacketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\PacketHandler.cs",
-              "RelativeDocumentMoniker": "DummyClient\\Packet\\PacketHandler.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\PacketHandler.cs",
-              "RelativeToolTip": "DummyClient\\Packet\\PacketHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:39:05.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SessionManager.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\SessionManager.cs",
-              "RelativeDocumentMoniker": "DummyClient\\SessionManager.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\SessionManager.cs",
-              "RelativeToolTip": "DummyClient\\SessionManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T01:55:43.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "ClientSession.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\Session\\ClientSession.cs",
               "RelativeDocumentMoniker": "Server\\Session\\ClientSession.cs",
@@ -299,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "PacketHandler.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\Packet\\PacketHandler.cs",
               "RelativeDocumentMoniker": "Server\\Packet\\PacketHandler.cs",
@@ -311,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "JobQueue.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\JobQueue.cs",
               "RelativeDocumentMoniker": "ServerCore\\JobQueue.cs",
@@ -323,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Connector.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\ServerCore\\Connector.cs",
               "RelativeDocumentMoniker": "ServerCore\\Connector.cs",
@@ -335,31 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ServerSession.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\ServerSession.cs",
-              "RelativeDocumentMoniker": "DummyClient\\ServerSession.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\ServerSession.cs",
-              "RelativeToolTip": "DummyClient\\ServerSession.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T10:09:14.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClientPacketManager.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\ClientPacketManager.cs",
-              "RelativeDocumentMoniker": "DummyClient\\Packet\\ClientPacketManager.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\ClientPacketManager.cs",
-              "RelativeToolTip": "DummyClient\\Packet\\ClientPacketManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:57:51.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "ServerPacketManager.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Server\\Packet\\ServerPacketManager.cs",
               "RelativeDocumentMoniker": "Server\\Packet\\ServerPacketManager.cs",
@@ -371,19 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PacketFormat.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PacketFormat.cs",
-              "RelativeDocumentMoniker": "PacketGenerator\\PacketFormat.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PacketFormat.cs",
-              "RelativeToolTip": "PacketGenerator\\PacketFormat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T08:59:18.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "PacketGenerator.csproj",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PacketGenerator.csproj",
               "RelativeDocumentMoniker": "PacketGenerator\\PacketGenerator.csproj",
@@ -392,42 +438,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-30T02:09:36.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GenPackets.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\GenPackets.cs",
-              "RelativeDocumentMoniker": "DummyClient\\Packet\\GenPackets.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\DummyClient\\Packet\\GenPackets.cs",
-              "RelativeToolTip": "DummyClient\\Packet\\GenPackets.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T08:54:53.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "PDL.xml",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PDL.xml",
-              "RelativeDocumentMoniker": "PacketGenerator\\PDL.xml",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\PacketGenerator\\PDL.xml",
-              "RelativeToolTip": "PacketGenerator\\PDL.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-09-29T08:58:16.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GenPackets.bat",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Common\\Packet\\GenPackets.bat",
-              "RelativeDocumentMoniker": "Common\\Packet\\GenPackets.bat",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Eunjoo\\ServerStudy\\Server\\Common\\Packet\\GenPackets.bat",
-              "RelativeToolTip": "Common\\Packet\\GenPackets.bat",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH6SURBVDhPpVPLbtNAFD3jZ/yIHwkkxG0paZMVy0os2bLkS/gLJBBCQlmw5Av4HISExKJQtQ2Uxg2JH3ETe7jjOIYIVCE4tsfjuecenzu\u002Bxn8hz1\u002Bz0WikR5x71dKNsKoxpkPMgyC4ZE\u002BfvXhsmMZbSZLK8E3Q9QYE7/o6Q1EUyOL5faXRaLAHR0dqy/fAiVQUORFWACtP6JoGxsQMME0TsiIjSRc4Pv6E9\u002B8\u002BMEmWZezt7WI4HODwoA\u002B/1caKc3AmQ9F0stnDYHBYxnd2AnQ7HfT378KyzFK09p2TpUk4xcnZGOOLCc4vLvF1coXPp\u002BeIk7TkcBKu7\u002BvpTwFOAtPZjK6IXPhQFQnpIsP3KEaWZdvJ61k51gKiTpk2KE0SKLKCpt0UbCwpOQxDxHFcbpyAENnIbAm4ThNBr4Pp9AozenNBxGS5wrd4gY8nZ5iLNRL5Ywni87TJ\u002BrC/j6B7G23Xhmno8DwfTdr9lDOcjr/U5Ww81AICwoVt2yRyDwMS2g0CtDwHOitIzMRylVPz5RV7jS0BAbEPmqbCorc6llEmJFxGRGW1fZdi2tqBKIPwm8AmINz4roMuJfmGioOgg1u\u002BX5a64Qiw5y9fPfIc942qqtXSLyBewYuyOyVJrjtSIErmSOfZQ/aEfqY7ERzYVeRvEYG6sxdWT/8K4AcTZNSoBr5V8QAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-29T13:22:17.973Z"
             }
           ]
         }

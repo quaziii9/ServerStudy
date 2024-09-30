@@ -116,7 +116,7 @@ interface IPacket
 
     public ArraySegment<byte> Write()
     {{
-        ArraySegment<byte> segment = SendBufferHelper.Open(4096);
+        ArraySegment<byte> segment = SendBufferHelper.Open(65535);
         ushort count = 0;
         bool success = true;
 
