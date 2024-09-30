@@ -17,7 +17,7 @@ namespace Server
 
         public override void OnConnected(EndPoint endPoint)
         {
-            System.Console.WriteLine($"OnConnected : {endPoint}");
+            Console.WriteLine($"OnConnected : {endPoint}");
             // 서버에 클라이언트가 접속을 했다면 강제로 채팅방에 들어오게 만듬
             // 하지만 실제 게임에서는 클라이언트 쪽에서 모든 리소스 업데이트가 완료 되었을 때 
             // 서버에 신호를 보내고 그때 채팅방에 들어오는 작업을 해줘야 한다.
@@ -43,12 +43,12 @@ namespace Server
                 room.Push(() => room.Leave(this));
                 Room = null;
             }
-            System.Console.WriteLine($"OnDisconnected : {endPoint}");
+            Console.WriteLine($"OnDisconnected : {endPoint}");
         }
 
         public override void OnSend(int numOfBytes)
         {
-            System.Console.WriteLine($"Transferred bytes : {numOfBytes}");
+           // Console.WriteLine($"Transferred bytes : {numOfBytes}");
         }
     }
 }
