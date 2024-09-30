@@ -1,15 +1,13 @@
 ﻿using ServerCore;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Server
 {
     class GameRoom : IJobQueue
     {
-        List<ClientSession> _sessions = new List<ClientSession>(); 
+        List<ClientSession> _sessions = new List<ClientSession>();
         JobQueue _jobQueue = new JobQueue();
         List<ArraySegment<byte>> _pendingList = new List<ArraySegment<byte>>();
 
@@ -20,6 +18,7 @@ namespace Server
 
         public void Flush()
         {
+            // N ^ 2
             foreach (ClientSession s in _sessions)
                 s.Send(_pendingList);
 
@@ -43,7 +42,7 @@ namespace Server
             session.Room = this;
         }
 
-        public void Leave(ClientSession session) 
+        public void Leave(ClientSession session)
         {
             _sessions.Remove(session);
         }

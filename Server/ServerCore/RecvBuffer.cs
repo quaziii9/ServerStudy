@@ -21,7 +21,7 @@ namespace ServerCore
         public int DataSize { get { return _writePos - _readPos; } }
         public int FreeSize { get { return _buffer.Count - _writePos; } }
 
-        public ArraySegment<byte> ReadSegement
+        public ArraySegment<byte> ReadSegment
         {
             get { return new ArraySegment<byte>(_buffer.Array, _buffer.Offset + _readPos, DataSize); }
         }
