@@ -19,12 +19,25 @@ public class PacketQueue : MonoBehaviour
 
     public IPacket Pop()
     {
-        lock(_lock)
+        lock (_lock)
         {
-            if(_packetQueue.Count == 0)
+            if (_packetQueue.Count == 0)
                 return null;
 
-            return _packetQueue.Dequeue();  
+            return _packetQueue.Dequeue();
         }
+    }
+
+    public List<IPacket> PopAll()
+    {
+        List<IPacket> list = new List<IPacket>();
+
+        lock (_lock)
+        {
+            while (_packetQueue.Count > 0)
+                list.Add(_packetQueue.Dequeue());
+        }
+
+        return list;
     }
 }

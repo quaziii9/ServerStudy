@@ -243,7 +243,7 @@ public class S_PlayerList : IPacket
     }
 }
 
-public class C_Movae : IPacket
+public class C_Move : IPacket
 {
     public float posX;
 	public float posY;
