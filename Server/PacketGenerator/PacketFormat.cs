@@ -14,7 +14,7 @@ namespace PacketGenerator
 using System;
 using System.Collections.Generic;
 
-class PacketManager
+public class PacketManager
 {{
     #region Singleton
     static PacketManager _instance = new PacketManager();
@@ -109,7 +109,8 @@ public interface IPacket
         // {2} 멤버 변수의 Read
         // {3} 멤버 변수의 Write
         public static string packetFormat =
-@"class {0} : IPacket
+@"
+public class {0} : IPacket
 {{
     {1}
 
