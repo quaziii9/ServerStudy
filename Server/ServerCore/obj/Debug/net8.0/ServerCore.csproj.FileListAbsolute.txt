@@ -12,9 +12,7 @@ C:\Users\KGA\Desktop\Eunjoo\Server\Server\ServerCore\obj\Debug\net8.0\refint\Ser
 C:\Users\KGA\Desktop\Eunjoo\Server\Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
 C:\Users\KGA\Desktop\Eunjoo\Server\Server\ServerCore\obj\Debug\net8.0\ServerCore.genruntimeconfig.cache
 C:\Users\KGA\Desktop\Eunjoo\Server\Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
-C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\bin\Debug\net8.0\ServerCore.exe
 C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
-C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\bin\Debug\net8.0\ServerCore.runtimeconfig.json
 C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\bin\Debug\net8.0\ServerCore.dll
 C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\bin\Debug\net8.0\ServerCore.pdb
 C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
@@ -25,7 +23,6 @@ C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\obj\Debug\net8.0\Serve
 C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\obj\Debug\net8.0\ServerCore.dll
 C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
 C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
-C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\obj\Debug\net8.0\ServerCore.genruntimeconfig.cache
 C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
 C:\Users\cocou\OneDrive\바탕 화면\Eunjoo\gameprograming\ServerStudy\Server\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
 C:\Users\cocou\OneDrive\바탕 화면\Eunjoo\gameprograming\ServerStudy\Server\ServerCore\bin\Debug\net8.0\ServerCore.dll

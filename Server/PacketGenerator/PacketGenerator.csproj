@@ -6,7 +6,7 @@
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <OutputPath>C:\Users\cocou\OneDrive\바탕 화면\은주\gameprograming\ServerStudy\Server\PacketGenerator\bin\</OutputPath>
+	  <OutputPath>C:\Users\KGA\Desktop\Eunjoo\ServerStudy\Server\PacketGenerator\bin\</OutputPath>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
